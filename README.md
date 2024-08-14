@@ -1,6 +1,6 @@
-# Demo template barebones
+# Demo template barebones
 
-This repo exists to set up custom demos in a very fast way with barebones.
+This repo exists to set up custom demos in a very fast with the bare minimum
 
 ✅ Create and Deploy from terminal \
 ✅ shadcn-ui & tailwindcss ready to be used \
